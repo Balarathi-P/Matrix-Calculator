@@ -4,7 +4,7 @@ This is a console based project which operates upon matrices and returns the req
 
 ## How it's made:
 
-**Tech used : **Python
+**Tech used :** Python
 
 This project uses nested lists as matrices to perform computations like addition, subtraction, multiplication, transpose, inverse and adjoint. Binary files are used to save the matrices and retrive it for later use.
 
